@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": "U001",
+        "nombre": "Daniel",
+        "nombre_usuario": "daniel",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "U002",
+        "nombre": "Dareck",
+        "nombre_usuario": "dareck",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "U003",
+        "nombre": "Ariel",
+        "nombre_usuario": "ariel",
+        "contrasena": "1234"
+    }
+]
