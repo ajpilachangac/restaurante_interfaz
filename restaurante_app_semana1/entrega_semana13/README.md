@@ -1,6 +1,6 @@
-# Restaurante App — Semana 13 (Interfaz gráfica con Tkinter)
 
-**Estudiante:** [Nombre completo del estudiante]
+
+**Estudiante:** Anderson Joel Pilachanga Caguana 
 
 ## Descripción del sistema
 
@@ -157,12 +157,3 @@ Usuarios de prueba incluidos en `datos/usuarios.json`:
     inexistente), confirmando que la lógica de negocio funciona
     independientemente de la vista.
 
-## Alcance de esta etapa
-
-Conforme a lo solicitado para la Semana 13, esta versión **no** incluye
-todavía: registro de productos o usuarios desde la interfaz, ventas
-funcionales mediante formularios gráficos, la clase `Bebida`, la clase
-`Venta`, persistencia de escritura en JSON, ni autenticación real. Estas
-funcionalidades, ya construidas en la versión de consola de semanas
-anteriores, se irán incorporando gráficamente sobre esta misma base en
-las siguientes entregas.
